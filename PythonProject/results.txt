@@ -1,0 +1,8 @@
+# write results to file
+with open("results.txt", "w") as f:
+    for prime in primes:
+        f.write(str(prime) + "\n")
+
+# print results to console
+print("Prime numbers between 1 and 250:")
+print(primes)
