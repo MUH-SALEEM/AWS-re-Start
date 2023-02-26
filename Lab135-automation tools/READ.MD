@@ -82,4 +82,4 @@
 	<h2>What are the challenges and problems with implementing deployment automation?</h2>
 	<ol>
 		<li>Complexity of the existing process</li>
-		<li>Dependencies</li> </html>
+		<li>Dependencies</li> 
