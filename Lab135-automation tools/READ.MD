@@ -1,9 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Build, Test, and Deployment Automation Tools</title>
-</head>
 <body>
 	<h1>What are some build automation tools?</h1>
 	<ol>
